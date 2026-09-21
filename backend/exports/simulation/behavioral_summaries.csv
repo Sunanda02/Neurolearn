@@ -1,0 +1,6 @@
+id,study_session_id,participant_id,condition,mean_b,median_b,stddev_b,min_b,max_b,observation_count,behavioral_state_proportions,camera_used,camera_opted_out,camera_revoked,updated_at
+069f66978fde4b4e89820079b468557f,study_7299455cdb99,participant_001,MCRF,0.82,0.82,0.04898979485566356,0.76,0.88,3,"{""attentive"": 1.0}",True,False,True,2026-08-17T14:30:28.469152
+3dd7db658fd1410ea5f21d483bf02e23,study_a571e038d69e,participant_001,MCRF,0.82,0.82,0.04898979485566356,0.76,0.88,3,"{""attentive"": 1.0}",True,False,True,2026-08-17T14:31:07.890898
+89c7f36a228943bc9b7525faf5a02b87,study_fda53702e1d6,participant_002,MCRF,0.7633072677092916,0.81,0.13465469270444158,0.0,0.91,2174,"{""attentive"": 0.8647654093836247, ""inattentive"": 0.10763569457221711, ""unfocused"": 0.027598896044158234}",True,False,True,2026-08-17T15:40:19.245972
+851559e4b0144f289ef45cca7a665eae,study_e7205f345361,participant_002,MCRF,0.46568341121495327,0.47,0.24796131416602682,0.0,0.89,1712,"{""attentive"": 0.30432242990654207, ""inattentive"": 0.4269859813084112, ""unfocused"": 0.26869158878504673}",True,False,False,2026-08-17T16:16:02.468673
+2d50d0a164714b48af20a07180266a83,study_22ffaf897b7a,participant_001,MCRF,0.82,0.82,0.04898979485566356,0.76,0.88,3,"{""attentive"": 1.0}",True,False,True,2026-08-18T09:52:18.038766

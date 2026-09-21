@@ -1,0 +1,4 @@
+study_session_id,participant_id,condition,sequence_order,course_id,module_id,video_id,started_at,ended_at,completion_status,experiment_version,application_version,crs_config_version,pretest_score,posttest_score,learning_gain,camera_used,camera_opted_out,camera_revoked
+study_7299455cdb99,participant_001,MCRF,MCRF_THEN_LEGACY,course_001,course_001,v1,2026-08-17T14:30:28.128506,2026-08-17T14:30:28.481769,completed,full-study-v1,fff53c3,crs-equal-weights-v1,1.0,2.0,1.0,True,False,True
+study_e4623f9d073b,participant_001,LEGACY,MCRF_THEN_LEGACY,course_001,course_001,v1,2026-08-17T14:31:07.685482,2026-08-17T14:31:07.704492,simulation_skipped_counterbalance,full-study-v1,fff53c3,crs-equal-weights-v1,,,,False,False,False
+study_a571e038d69e,participant_001,MCRF,MCRF_THEN_LEGACY,course_001,course_001,v1,2026-08-17T14:31:07.751003,2026-08-17T14:31:07.897879,completed,full-study-v1,fff53c3,crs-equal-weights-v1,1.0,2.0,1.0,True,False,True

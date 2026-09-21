@@ -1,0 +1,9 @@
+id,study_session_id,participant_id,condition,course_id,video_id,contributing_video_ids,difficulty,starting_difficulty,selected_difficulty,ending_difficulty,total_score,percentage,total_duration_seconds,number_of_questions,number_correct,completion_status,created_at,completed_at
+session_sim_1786977028,study_7299455cdb99,participant_001,MCRF,course_001,v1,,medium,medium,medium,hard,20.0,66.7,77.0,3,2,completed,2026-08-17T14:30:28.240174,2026-08-17T14:30:28.298856
+session_sim_1786977067,study_a571e038d69e,participant_001,MCRF,course_001,v1,,medium,medium,medium,hard,20.0,66.7,77.0,3,2,completed,2026-08-17T14:31:07.787077,2026-08-17T14:31:07.819468
+session_16d1b3d9ed88,study_1092297ad53a,participant_002,LEGACY,course_001,v1,,medium,medium,medium,,,,,5,,started,2026-08-17T15:12:49.494265,
+session_d0f9bc68fad8,study_fda53702e1d6,participant_002,MCRF,course_001,v1,,medium,medium,medium,,,,,5,,started,2026-08-17T15:39:01.655492,
+session_2e346e32fef6,study_fda53702e1d6,participant_002,MCRF,course_001,v1,,medium,medium,medium,medium,80.0,80.0,97.0,5,4,completed,2026-08-17T15:39:18.897172,2026-08-17T15:40:18.715059
+session_4a07bd46f232,study_4da3fe1c23fc,participant_002,LEGACY,course_001,v1,,medium,medium,medium,,,,,5,,started,2026-08-17T16:13:13.797339,
+session_bb9ddfcbc5a2,study_e7205f345361,participant_002,MCRF,course_001,v1,,medium,medium,medium,easy,20.0,20.0,46.0,5,1,completed,2026-08-17T16:15:32.839935,2026-08-17T16:16:01.823888
+session_sim_1787046737,study_22ffaf897b7a,participant_001,MCRF,course_001,v1,[],medium,medium,medium,hard,20.0,66.7,77.0,3,2,completed,2026-08-18T09:52:17.940987,2026-08-18T09:52:17.976180

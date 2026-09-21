@@ -1,0 +1,12 @@
+id,study_session_id,participant_id,test_type,question_id,question_index,correctness,response_time_seconds,score,started_at,completed_at
+a4cec36385134d43bfcdf9cc90381256,study_7299455cdb99,participant_001,pre,pre_1,0,True,20.0,1.0,,
+8a1058e35d3640cbbc64af0ce0c50931,study_7299455cdb99,participant_001,pre,pre_2,1,False,30.0,0.0,,
+a184aa6c37d84fa48746c0814e2e8a35,study_7299455cdb99,participant_001,post,post_1,0,True,18.0,1.0,,
+c8ccbb1e5efd4f3e83e803df89faf268,study_7299455cdb99,participant_001,post,post_2,1,True,25.0,1.0,,
+c71596f916e34b8194c7829c74e8a26a,study_a571e038d69e,participant_001,pre,pre_1,0,True,20.0,1.0,,
+f57d3b6d66e746adb57fb0b1397b632c,study_a571e038d69e,participant_001,pre,pre_2,1,False,30.0,0.0,,
+b82c2a17d8354cad90681c5d19be9595,study_a571e038d69e,participant_001,post,post_1,0,True,18.0,1.0,,
+5459611838f943c4acac0f9105d9ed0d,study_a571e038d69e,participant_001,post,post_2,1,True,25.0,1.0,,
+d3e4a2b0e9b94b5d9384dd37fe8ef2ff,study_e7205f345361,participant_002,post,study_q1,0,True,11.9,1.0,2026-08-17T16:16:24.259000,2026-08-17T16:16:36.159000
+37048cf9da8e42c58e8b2f54e20198d3,study_e7205f345361,participant_002,post,study_q2,1,True,10.8,1.0,2026-08-17T16:16:36.161000,2026-08-17T16:16:47.007000
+408539fc5d7948f0a7fe2cb6c1ebb3eb,study_e7205f345361,participant_002,post,study_q3,2,True,6.4,1.0,2026-08-17T16:16:47.009000,2026-08-17T16:16:53.423000

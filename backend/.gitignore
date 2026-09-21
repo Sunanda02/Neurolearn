@@ -1,0 +1,28 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+env/
+.venv/
+.venv312/
+
+# FastAPI / Uvicorn
+*.log
+
+# Env files
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# Env files
+.env
+.env.local
+.env.production
+.env.development
+
+# OS
+.DS_Store
